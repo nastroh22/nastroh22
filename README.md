@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- You can also find some past work at the following account: https://github.com/nastroh22#:~:text=https%3A//github.com/nstroh21
+- You can also find some past work at the following account: https://github.com/nastroh21
 - I will soon be consolidating here
 
 <!--
