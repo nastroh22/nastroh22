@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- You can also find some past work at the following account: https://github.com/nastroh22#:~:text=https%3A//github.com/nstroh21
+- I will soon be consolidating here
+
 <!--
 **nastroh22/nastroh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
