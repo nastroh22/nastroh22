@@ -2,7 +2,7 @@
 
 - You can also find some past work at the following account: [https://github.com/nstroh21](https://github.com/nstroh21)
 - 🔭 I’m currently working on a thesis on control theory for decentralized finance applications
--  ⚡ I just asked chatgpt for a fun fact and it's not half bad:
+-  ⚡ I just asked chatgpt for a fun fact and here it is:
   
 Did you know that octopuses have three hearts? Two of the hearts pump blood to the gills, while the third pumps it to the rest of the body. What’s even more fascinating is that when an octopus swims, the heart that delivers blood to the body actually stops beating, which is why they prefer crawling instead of swimming—swimming exhausts them quickly!
 
